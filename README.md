@@ -9,10 +9,11 @@ by many hearing people as well. ASL has a large area ofscope. Fingerspelling is 
 used to spell out English words. In the figure-spelled alphabet, each letter corresponds to a distinct
 handshape. 
 # How to run this code 
-in first download this repository to your local computer then after setup python with the required version 
-# step 1 : run file name imagecapture.py and start capturing hand landmark then image i saved on directory 
-# step 2 : after capturing dataset you can train data by using file name CNNmodel.py and model is saved which is further for data prediction
-# step 3: run file name final_pred.py which contains GUI and then place your hand then it show landmark on white image and image is predicted and show the suggestion also and click on speak for sound and clear for clearing all the text and sentence
+  in first download this repository to your local computer then after setup python with the required version 
+
+** step 2** : run file name imagecapture.py and start capturing hand landmark then image i saved on directory 
+**step 2** : after capturing dataset you can train data by using file name CNNmodel.py and model is saved which is further for data prediction
+**step 3:** run file name final_pred.py which contains GUI and then place your hand then it show landmark on white image and image is predicted and show the suggestion also and click on speak for sound and clear for clearing all the text and sentence
 
 # This screenshot show the picture of landmark that is capture to train data
 
