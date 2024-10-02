@@ -11,9 +11,12 @@ handshape.
 # How to run this code 
   in first download this repository to your local computer then after setup python with the required version 
 
-** step 2** : run file name imagecapture.py and start capturing hand landmark then image i saved on directory 
-**step 2** : after capturing dataset you can train data by using file name CNNmodel.py and model is saved which is further for data prediction
-**step 3:** run file name final_pred.py which contains GUI and then place your hand then it show landmark on white image and image is predicted and show the suggestion also and click on speak for sound and clear for clearing all the text and sentence
+**step 2** : run file name imagecapture.py and start capturing hand landmark then image is saved on directory 
+**step 3** : after capturing dataset you can train data by using file name CNNmodel.py and model is saved which is further for data prediction
+**step 4:** load model and run file name final_pred.py which contains GUI and then place your hand then it show landmark on white image and image is predicted and show the suggestion also and click on speak for sound and clear for clearing all the text and sentence
+# This is the picture of the American Sign Language 
+  from this picture dataset from A to Z is captured
+ ![ASL pp](https://github.com/user-attachments/assets/446ea50e-c77b-4f46-af60-5892ade83e58)
 
 # This screenshot show the picture of landmark that is capture to train data
 
@@ -31,6 +34,7 @@ handshape.
 
 
 # This is the demo of this project:
+by drawing landmark on white image make prediction higly accuracy but when you draw landmark directly on hand lighting may effect the accuracy of prediction.
 
 
 https://github.com/user-attachments/assets/e1a2248a-4068-44ae-a771-3cd0e9eac871
